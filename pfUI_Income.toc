@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: pfUI Income
+## Notes: Session income breakdown (auction vs other) on money tooltip. Works with pfUI.
+## Author: Bloodysunset
+## Version: 1.0
+## OptionalDeps: pfUI
+
+pfUI_Income.lua
